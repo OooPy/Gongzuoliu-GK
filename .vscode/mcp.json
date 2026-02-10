@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "feishu": {
+      "command": "npx",
+      "args": [
+        "@larksuiteoapi/lark-mcp",
+        "mcp",
+        "-a", "cli_a8de7a90cc0a500e",
+        "-s", "x1lJdxCcKZHGrjcp6Dejycns5aY3VMSH",
+        "-l", "zh"
+      ]
+    }
+  }
+}
