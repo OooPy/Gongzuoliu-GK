@@ -1,0 +1,21 @@
+{
+    "sync": {
+        "provider": "local",
+        "local_output": "data/learning_items.jsonl"
+    },
+    "language": {
+        "source": "en",
+        "target": "zh-CN"
+    },
+    "feishu": {
+        "app_id": "your_app_id_here",
+        "app_secret": "your_app_secret_here",
+        "app_token": "your_bitable_app_token_here",
+        "table_id": "your_table_id_here"
+    },
+    "monitor": {
+        "poll_interval": 3,
+        "min_word_length": 3,
+        "max_phrase_words": 8
+    }
+}
